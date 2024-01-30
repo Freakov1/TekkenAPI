@@ -1,0 +1,39 @@
+{
+    "TekkenCharacters": [
+        {
+            "id": 0,
+            "name": "Jin",
+            "gender": "male",
+            "type": "mishima",
+            "speciality": "versatile"
+        },
+        {
+            "id": 1,
+            "name": "Kazuya",
+            "gender": "male",
+            "type": "mishima",
+            "speciality": "mix ups"
+        },
+        {
+            "id": 2,
+            "name": "Yoshimitsu",
+            "gender": "male",
+            "type": "nishobi",
+            "speciality": "unpredictability"
+        },
+        {
+            "id": 3,
+            "name": "Paul",
+            "gender": "male",
+            "type": "vandal",
+            "speciality": "power"
+        },
+        {
+            "id": 4,
+            "name": "Ling Xiaoyu",
+            "gender": "female",
+            "type": "assassin",
+            "speciality": "agility"
+        }
+    ]
+}
